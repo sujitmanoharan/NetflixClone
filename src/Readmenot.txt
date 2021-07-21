@@ -1,5 +1,1 @@
-Day 12
-
-day 13
-
-Day 14
+There was an error with Day 16 this uis the attempt to fix it.
