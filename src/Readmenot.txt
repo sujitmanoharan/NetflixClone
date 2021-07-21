@@ -1,3 +1,1 @@
-
-
-Day 16 is done
+There was an error with Day 16 this uis the attempt to fix it.
